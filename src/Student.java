@@ -4,4 +4,7 @@ public class Student {
             System.out.println("HELOO");
         }
     }
+    void myMethod(){
+        System.out.println("sdsdsd");
+    }
 }
